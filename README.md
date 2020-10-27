@@ -15,5 +15,5 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/97337455-b0f48100-1856-11eb-8249-7704ccd1648e.jpg"></code>
 
 # ![Puls github stats](https://github-readme-stats.vercel.app/api?username=Puls1337&show_icons=true&theme=tokyonight)
-<a href="https://github.com/Puls1337?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puls1337&layout=compact&show_icons=true&&theme=tokyonight" />
+
+ 
