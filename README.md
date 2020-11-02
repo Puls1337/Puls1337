@@ -23,3 +23,7 @@
 **hobbies** = **being me**
 
 **dream** = **being me**
+
+**I would also would like to reach 400 followers on github**
+
+**Also if you don't watch naruto you're sped**
