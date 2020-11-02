@@ -2,7 +2,7 @@
 
 **SOCIALS**
 
- <a href="https://discord.bio/p/Puls">I hope u like</a>
+ <a href="https://discord.bio/p/Puls">this my bio</a>
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/96876612-aac16780-1446-11eb-89c5-07799ed85ccd.png"></code>
 
@@ -16,4 +16,7 @@
 
 # ![Puls github stats](https://github-readme-stats.vercel.app/api?username=Puls1337&show_icons=true&theme=tokyonight)
 
- 
+ **name** = **Puls**
+ **age** = **15**
+**hobbies** = **being me**
+**dream** = **being with you**
