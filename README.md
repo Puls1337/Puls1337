@@ -6,7 +6,7 @@
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/96876612-aac16780-1446-11eb-89c5-07799ed85ccd.png"></code>
 
-**Coding Languages I Know**
+**Coding Languages I Mosty use**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/96875385-27ebdd00-1445-11eb-884c-472ce5f82732.png"></code>
