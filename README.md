@@ -27,3 +27,7 @@
 **I would also would like to reach 400 followers on github**
 
 **Also if you don't watch naruto you're sped**
+
+**Introduction**- **Hello my name is puls, the reason why I use github is too proove skids wrong and sometimes if I feel like coding something and whipping that bad boy up, I can just use github!**
+
+**Warning! (Don't trust skids, skidsK)**
