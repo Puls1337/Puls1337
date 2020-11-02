@@ -17,6 +17,9 @@
 # ![Puls github stats](https://github-readme-stats.vercel.app/api?username=Puls1337&show_icons=true&theme=tokyonight)
 
  **name** = **Puls**
+
  **age** = **15**
+
 **hobbies** = **being me**
-**dream** = **being with you**
+
+**dream** = **being me**
