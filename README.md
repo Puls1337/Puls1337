@@ -16,18 +16,3 @@
 
 # ![Puls github stats](https://github-readme-stats.vercel.app/api?username=Puls1337&show_icons=true&theme=tokyonight)
 
- **name** = **Puls**
-
- **age** = **15**
-
-**hobbies** = **being me**
-
-**dream** = **being me**
-
-**I would also would like to reach 400 followers on github**
-
-**Also if you don't watch naruto you're sped**
-
-**Introduction**- **Hello my name is puls, the reason why I use github is too proove skids wrong and sometimes if I feel like coding something and whipping that bad boy up, I can just use github!**
-
-**Warning! (Don't trust skids, skidsK)**
