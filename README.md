@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/770629107389038593/770697987252289596/tenor_1.gif" style="border-radius: 75%;">
+<img src="https://media3.giphy.com/media/3oriNM8HF8oijarwre/source.gif" style="border-radius: 75%;">
 
 *Everything I post on my github are for entertainment purposes only!* 
 
