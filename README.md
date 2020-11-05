@@ -1,5 +1,6 @@
 <img src="https://media.discordapp.net/attachments/770629107389038593/770697987252289596/tenor_1.gif" style="border-radius: 75%;">
-*Everything I post on my github is for entertainment purposes ONLY!*
+
+*Everything I post on my github are for entertainment purposes only!* 
 
 
 **Coding languages I mostly use**
