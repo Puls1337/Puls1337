@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/3oriNM8HF8oijarwre/source.gif" style="border-radius: 75%;">
+<img src="https://media4.giphy.com/media/TgyJebqyMtPrOxiPdk/200.gif" style="border-radius: 75%;">
 
 *Everything I post on my github are for entertainment purposes only!* 
 
