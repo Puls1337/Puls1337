@@ -11,8 +11,5 @@
 
 *go*
 
-*javascript*
-
-*Trash coding languages such as java lol code and brainf*
 # ![Puls github stats](https://github-readme-stats.vercel.app/api?username=Puls1337&show_icons=true&theme=tokyonight)
 
