@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/TgyJebqyMtPrOxiPdk/200.gif" style="border-radius: 75%;">
+<img src="https://media.discordapp.net/attachments/774746171448229909/774808746723377173/a_a13f0b5f9cad5824595b53ce4ac74e07.gif?width=207&height=207" style="border-radius: 75%;">
 
 *Everything I post on my github are for entertainment purposes only!* 
 
