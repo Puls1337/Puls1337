@@ -7,4 +7,3 @@ Is
 Ugly
 Ass
 Shit
-Kid
