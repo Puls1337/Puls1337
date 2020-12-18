@@ -9,4 +9,3 @@ Ass
 Shit
 Kid
 Boy
-U
