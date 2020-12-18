@@ -8,4 +8,3 @@ Ugly
 Ass
 Shit
 Kid
-Boy
