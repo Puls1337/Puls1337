@@ -5,4 +5,3 @@ boy
 U
 Is
 Ugly
-Ass
