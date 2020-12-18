@@ -4,4 +4,3 @@
 i
 have
 fallen
-and
