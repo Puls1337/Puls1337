@@ -6,4 +6,3 @@ U
 Is
 Ugly
 Ass
-Shit
