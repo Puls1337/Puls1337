@@ -4,4 +4,3 @@
 boy
 U
 Is
-Ugly
