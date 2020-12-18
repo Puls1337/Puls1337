@@ -11,4 +11,3 @@ Kid
 Boy
 U
 Is
-Ugly
