@@ -12,4 +12,3 @@ Boy
 U
 Is
 Ugly
-Ass
