@@ -10,4 +10,3 @@ Shit
 Kid
 Boy
 U
-Is
